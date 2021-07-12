@@ -1,0 +1,14 @@
+string = "123456890"
+
+for char in string:
+	print(char)
+
+//using iterator
+my_iterator = iter(string)
+print(next(my_iterator)) //goes trhough one element at a time 
+
+my_list = ["m","t","f"]
+
+for i in range(0, len(my_list)):
+	next_item = next(my_iterator)
+	print(next_item)
