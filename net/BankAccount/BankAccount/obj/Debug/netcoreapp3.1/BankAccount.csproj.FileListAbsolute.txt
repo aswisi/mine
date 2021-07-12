@@ -1,0 +1,13 @@
+C:\Users\aselw\Desktop\Codeing\net\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+C:\Users\aselw\Desktop\Codeing\net\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+C:\Users\aselw\Desktop\Codeing\net\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+C:\Users\aselw\Desktop\Codeing\net\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+C:\Users\aselw\Desktop\Codeing\net\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\aselw\Desktop\Codeing\net\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\aselw\Desktop\Codeing\net\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.AssemblyReference.cache
+C:\Users\aselw\Desktop\Codeing\net\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\aselw\Desktop\Codeing\net\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Users\aselw\Desktop\Codeing\net\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\aselw\Desktop\Codeing\net\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\aselw\Desktop\Codeing\net\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\aselw\Desktop\Codeing\net\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache
